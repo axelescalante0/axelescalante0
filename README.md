@@ -5,9 +5,9 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me gusta 
 
 ## Tecnologías y herramientas
 - Lenguajes: R, Python, SQL
-- Frameworks: React, Node.js, Spring Boot
-- Herramientas: Git, Docker, Kubernetes
+- Frameworks: 
+- Herramientas: 
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/axelescalante0)
-- [Email](mailto:axelescalante0@example.com)
+- [LinkedIn](https://www.linkedin.com/in/axel-escalante-57a598306/)
+- [Email](axelescalnte0@gmail.com)
