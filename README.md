@@ -9,5 +9,5 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me gusta 
 - Herramientas: 
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/axel-escalante-57a598306/)
+- [LinkedIn](https://www.linkedin.com/in/axelescalante0)
 - [Email](axelescalnte0@gmail.com)
